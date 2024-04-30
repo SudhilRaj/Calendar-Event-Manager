@@ -5,4 +5,4 @@ The Event Manager application is a simple web application that allows users to a
 - Made with React + Vite, Local storage
 - Custom Calendar using Vanilla JS.
 
-<!-- <h3>:fire:<a href="https://srk-react-music-player.netlify.app/" target="_blank"><b>Live Demo</b></a>:fire:</h3> -->
+<h3>:fire:<a href="https://srk-calendar-event-manager.netlify.app/" target="_blank"><b>Live Demo</b></a>:fire:</h3>
